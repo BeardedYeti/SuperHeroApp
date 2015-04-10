@@ -1,0 +1,11 @@
+<section>
+    <h2 data-bind="text: displayName"></h2>
+    <div class="row" data-bind="foreach:universe">
+        <div class="col-sm-6 col-md-3">
+            <a href="app/viewmodels/"+id class="thumbnail" data-bind="click:$parent.select">
+                <img style="width: 1000px; height: 395px;" data-bind="attr: { text: title, src: image }"/>
+                <p data-bind="text: title"></p>
+            </a>
+        </div>
+    </div>
+</section>

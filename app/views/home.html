@@ -1,0 +1,14 @@
+﻿<div>
+    <ul data-bind="foreach: people" class="media">
+        <li class="media-list">
+            <div class="well media-body">
+                <img class="media-object pull-left img-polaroid" src="img/capt"/>
+                <div class="modal-body">
+                    <h2 data-bind="text: title" class="media-heading"></h2>
+                    <a data-bind="click: viewPersonModal"><span data-bind="text: name"></span>
+                    </a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>

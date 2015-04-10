@@ -1,0 +1,12 @@
+﻿<section>
+    <h2 data-bind="text:displayName"></h2>
+    <blockquote data-bind="text:description"></blockquote>
+    <h3>Features</h3>
+    <ul data-bind="foreach: features">
+        <li data-bind="text:$data"></li>
+    </ul>
+    <div class="alert alert-success">
+      <h4>About</h4>
+        This site was made by Colin Smith. If you need to contact him you can email him <a href="mailto:cmsgoboston41@gmail.com">HERE</a> or you can <a href="https://twitter.com/TheBeardedYeti" class="twitter-follow-button" data-show-count="false">Follow @TheBeardedYeti</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> on Twitter. Thanks for stopping by!!!
+    </div>
+</section>
