@@ -1,0 +1,126 @@
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.dll.config
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.pdb
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Antlr3.Runtime.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.SqlServer.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Newtonsoft.Json.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Owin.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Net.Http.Formatting.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Helpers.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.Owin.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.WebHost.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Mvc.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Optimization.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Razor.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Deployment.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Razor.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\WebGrease.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Newtonsoft.Json.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Net.Http.Formatting.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Helpers.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.WebHost.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Mvc.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Optimization.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Razor.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Deployment.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Razor.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Antlr3.Runtime.pdb
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.SqlServer.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.Owin.xml
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.dll
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.pdb
+E:\Users\Smith\Desktop\Projects\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.csprojResolveAssemblyReference.cache
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.dll.config
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Superheroes.pdb
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Antlr3.Runtime.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.SqlServer.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Newtonsoft.Json.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Owin.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Net.Http.Formatting.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Helpers.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.Owin.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.WebHost.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Mvc.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Optimization.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Razor.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Deployment.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Razor.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\WebGrease.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Newtonsoft.Json.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Net.Http.Formatting.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Helpers.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.WebHost.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Mvc.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Optimization.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Razor.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Deployment.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.WebPages.Razor.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Antlr3.Runtime.pdb
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\EntityFramework.SqlServer.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\bin\System.Web.Http.Owin.xml
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.csprojResolveAssemblyReference.cache
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.dll
+E:\Users\Smith\Desktop\Project Repositories\VisualStudios2015\Superheroes\Superheroes\obj\Debug\Superheroes.pdb

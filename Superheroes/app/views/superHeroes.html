@@ -1,0 +1,10 @@
+<section>
+    <h2 data-bind="text: displayName"></h2>
+    <div class="column" data-bind="foreach: router.navigationModel">
+        <div class="col-sm-6 col-md-3">
+            <a data-bind="attr: { href: hash }">
+                <img class="thumbnail" data-bind="attr: { src: image, text: title }"/>
+            </a>
+        </div>
+    </div>
+</section>
